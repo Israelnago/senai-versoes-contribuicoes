@@ -1,1 +1,0 @@
-Arquivo para ser incluído no gitignore, simulando arquivo exclusivo para repositório local
